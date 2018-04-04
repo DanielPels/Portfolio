@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MakeDevGo</title>
+    <link>https://danielpels.github.io/Portfolio/public/</link>
+    <description>Recent content on MakeDevGo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 04 Apr 2018 20:09:54 +0200</lastBuildDate>
+    
+	<atom:link href="https://danielpels.github.io/Portfolio/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>8 Gears</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/8gears/</link>
+      <pubDate>Wed, 04 Apr 2018 20:09:54 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/8gears/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blob Bop</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/blobbop/</link>
+      <pubDate>Wed, 04 Apr 2018 20:09:54 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/blobbop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chompy</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/chompy/</link>
+      <pubDate>Wed, 04 Apr 2018 20:09:54 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/chompy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dungeon March</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/dungeonmarch/</link>
+      <pubDate>Wed, 04 Apr 2018 20:09:54 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/dungeonmarch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlyHigh</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/flyhigh/</link>
+      <pubDate>Wed, 04 Apr 2018 20:09:54 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/flyhigh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mr. Miner</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/mrminer/</link>
+      <pubDate>Wed, 04 Apr 2018 20:09:54 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/mrminer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RivalRush</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/rivalrush/</link>
+      <pubDate>Wed, 04 Apr 2018 20:09:54 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/rivalrush/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speedboat</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/speedboat/</link>
+      <pubDate>Wed, 04 Apr 2018 20:09:54 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/speedboat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Go Project</title>
+      <link>https://danielpels.github.io/Portfolio/public/blog/first-go-project/</link>
+      <pubDate>Thu, 04 Jan 2018 21:46:20 +0200</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/blog/first-go-project/</guid>
+      <description>For my first project I decided to write a tool to help me earn virtual money(ISK) in Eve online.
+Fighting(PVP) and taking contol of systems is one of the core elements in Eve online, each player has a spaceship with modules at their disposal to use in those fights. Getting those items can take quite a while, each player has to haul their ship with modules from a trade-hub(Jita) to their favorite system.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://danielpels.github.io/Portfolio/public/about/</link>
+      <pubDate>Tue, 27 Jun 2017 17:39:21 -0700</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/about/</guid>
+      <description>Hi, I&amp;rsquo;m Daniël. Programmer by heart, GoLang enthusiast and avid gamer.
+Love building products and games that the user will enjoy.
+Always looking for new challenging problems to solve, not afraid to teach and and be taught.
+ co-founder of GobletGames.com and created 12 awesome games. Taught programming to first and second year students at Ma  Launched games on:
+ Facebook Instant messenger Orange Games Coolgames Famobi,  Check out my work to see the games I have created.</description>
+    </item>
+    
+    <item>
+      <title>Princess Pets</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/princess/</link>
+      <pubDate>Mon, 15 May 2017 22:25:16 -0700</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/princess/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Undead Drive</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/undeaddrive/</link>
+      <pubDate>Mon, 15 May 2017 22:25:02 -0700</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/undeaddrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scavs.io</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/scavs/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/scavs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robo repair, Messenger</title>
+      <link>https://danielpels.github.io/Portfolio/public/gallery/roborepair/</link>
+      <pubDate>Mon, 15 May 2017 21:52:57 -0700</pubDate>
+      
+      <guid>https://danielpels.github.io/Portfolio/public/gallery/roborepair/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
