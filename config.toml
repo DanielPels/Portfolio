@@ -1,5 +1,5 @@
 title = "MakeDevGo"
-baseURL = "https://danielpels.github.io/Portfolio/public/"
+baseURL = "https://makedevgo.com/"
 tags = ["portfolio", "web design", "blog", "Go", "gamedev","programmer"]
 languageCode = "en-US"
 config = "config.toml"
