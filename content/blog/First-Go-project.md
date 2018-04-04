@@ -3,6 +3,7 @@ title: "First Go Project"
 date: 2018-01-04T21:46:20+02:00
 draft: false
 ---
+For my first project I decided to write a tool to help me earn virtual money(ISK) in Eve online.
 
 Fighting(PVP) and taking contol of systems is one of the core elements in Eve online, each player has a spaceship with modules at their disposal to use in those fights.
 Getting those items can take quite a while, each player has to haul their ship with modules from a trade-hub(Jita) to their favorite system.
@@ -13,7 +14,7 @@ If a player dies in their spaceship the player that got the kill will receive a 
 Inside those killmails there is a detailed log of what has been lost.
 
 # The catch
-In the intrest of making virtual money(ISK) and starting a lucrative business we will use those killmails to our advantage.
+In the intrest of making virtual money and starting a lucrative business we will use those killmails to our advantage.
 Playing the game my self I know that hauling ships can be a pain. Players who wish to fight do not wish to wait a long time to haul their ships and modules.
 So we make two assumptions:
 
