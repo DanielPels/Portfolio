@@ -1,5 +1,5 @@
 title = "MakeDevGo"
-baseURL = "https://makedevgo.com/"
+baseURL = "http://makedevgo.com/"
 tags = ["portfolio", "web design", "blog", "Go", "gamedev","programmer"]
 languageCode = "en-US"
 config = "config.toml"
