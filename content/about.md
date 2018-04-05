@@ -10,7 +10,7 @@ Programmer by heart, [GoLang](https://golang.org/) enthusiast and avid gamer.
 
 I love building products and games that the user will enjoy.
 
-Always looking for new challenging problems to solve, not afraid to teach and and be taught.
+Always looking for new challenging problems to solve, not afraid to teach and be taught.
 
 * co-founder of [GobletGames.com](http://GobletGames.com/) and we've created 12 awesome games.
 * Taught programming to first and second year students at [Mediacollege Amsterdam](https://www.ma-web.nl/opleidingen/opleidingsoverzicht/gamedeveloper/)
