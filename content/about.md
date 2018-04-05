@@ -8,19 +8,19 @@ draft = false
 
 Programmer by heart, [GoLang](https://golang.org/) enthusiast and avid gamer.
 
-Love building products and games that the user will enjoy.
+I love building products and games that the user will enjoy.
 
 Always looking for new challenging problems to solve, not afraid to teach and and be taught.
 
-* co-founder of [GobletGames.com](http://GobletGames.com/) and created 12 awesome games.
-* Taught programming to first and second year students at [Ma](https://www.ma-web.nl/opleidingen/opleidingsoverzicht/gamedeveloper/)
+* co-founder of [GobletGames.com](http://GobletGames.com/) and we created 12 awesome games.
+* Taught programming to first and second year students at [Mediacollege Amsterdam](https://www.ma-web.nl/opleidingen/opleidingsoverzicht/gamedeveloper/)
 
 Launched games on: 
 
 * [Facebook Instant messenger](https://www.messenger.com/)
 * [Orange Games](http://orangegames.com/)
 * [Coolgames](https://www.coolgames.com/en/static/)
-* [Famobi,](https://famobi.com/)
+* [Famobi](https://famobi.com/)
 
 Check out my work to see the games I have created.
 
