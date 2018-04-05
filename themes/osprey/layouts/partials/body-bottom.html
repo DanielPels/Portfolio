@@ -3,7 +3,7 @@
   <script src="/scripts/{{ if .Site.Params.cacheBustJS }}{{ index .Site.Data.cachedAssets "index.js" }}{{ else }}index.min.js{{ end }}" type="text/javascript"></script>
   {{ if .Site.Params.ajaxFormspree }}
     <script>
-      {{ partial "scripts/contact.min.js" . | safeJS }}
+      // {{ partial "scripts/contact.min.js" . | safeJS }}
     </script>
   {{ end }}
 {{ else }}
