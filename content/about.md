@@ -4,6 +4,9 @@ date = "2017-06-27T17:39:21-07:00"
 draft = false
 +++
 
+![Picture of daniel](http://makedevgo.com/images/fotoZelf.png "Picture self")
+
+
 ## Hi, I'm Daniël.
 
 Programmer by heart, [GoLang](https://golang.org/) enthusiast and avid gamer.
