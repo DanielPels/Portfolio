@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <title>GobletGames</title>
+    <link rel="stylesheet" href="css/GobletGames.css" type="text/css"/>
+    <!--Start scripts-->
+    <script src="library/phaser-no-physics.min.js"></script>
+    <script src="library/howler.min.js"></script>
+    <script src="gobletgames.min.js"></script>
+    <!--End scripts-->
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-96609506-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-96609506-1');
+    </script>
+</head>
+<body>
+<script>
+    window.onload = function () {
+        StartFartKing();
+    };
+</script>
+<script type="text/javascript">
+    $(function () {
+        $(document).on('click', 'canvas', function () {
+            $('body').focus();
+        });
+    });
+</script>
+<div id="gobletgames"></div>
+</body>
+</html>
